@@ -18,16 +18,16 @@ var l_centerLogo = true;
 
 // Display current map and gamemode?
 // 'true' or 'false'
-var l_displayMapGamemode = false
+var l_displayMapGamemode = false;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "OnlyHope Servers"
+var l_serverName = "OnlyHope Servers";
 
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = false
+var l_bgVideo = false;
 
 // Default available videos:
 // "aurora.webm"
@@ -103,11 +103,11 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = false
+var l_music = false;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = false
+var l_musicDisplay = false;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
