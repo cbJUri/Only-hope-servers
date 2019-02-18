@@ -134,8 +134,8 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"May the force be with you"
-	"Consider donating to keep the server thriving!"
+	"May the force be with you",
+	"Consider donating to keep the server thriving!",
 	"Don't forget to stay connect with !discord and !join"
 ];
 
