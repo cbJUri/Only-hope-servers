@@ -136,7 +136,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"May the force be with you",
 	"Consider donating to keep the server thriving!",
-	"Don't forget to stay connect with !discord and !join"
+	"Don't forget to stay connected with !discord and !join"
 ];
 
 // Random message order?
