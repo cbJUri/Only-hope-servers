@@ -72,10 +72,10 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"bg1.jpg",
-	"bg2.jpg",
-	"bg3.jpg",
-	"bg4.jpg"
+	"swtor-background-10.jpg",
+	"star-wars_-the-old-republic-hd-wallpapers-33688-5950330.jpg",
+	"nx738Kx.jpg",
+	"6224389-starwars-wallpaper.jpg"
 ];
 
 // (Image-background only)
